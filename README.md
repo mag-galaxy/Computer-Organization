@@ -9,6 +9,6 @@ NCU 112-2 Computer Organization Final Project
 
 - [x] Q3 Config last level cache to 2-way and full way associative cache and test performance
 
-- [ ] Q4 Modify last level cache policy based on freauency based replacement policy
+- [x] Q4 Modify last level cache policy based on freauency based replacement policy
 
 - [ ] Q5 Test the performance of write back and write through policy based on 4-way associative cache with isscc_pcm
