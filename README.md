@@ -1,9 +1,7 @@
 # Computer Organization Final Project
 NCU 2024 Spring CE3001 Computer Organization
 
-Final Project
-
-### Finished
+### Final Project Finished
 
 - [x] Q1 GEM5 + NVMAIN BUILD UP
 
