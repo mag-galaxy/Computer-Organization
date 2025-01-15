@@ -1,7 +1,5 @@
 # Computer Organization Final Project
-NCU 112-2 Computer Organization 
-
-Course: CE3001
+NCU 2024 Spring CE3001 Computer Organization 
 
 ### Finished
 
