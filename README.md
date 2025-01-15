@@ -1,5 +1,7 @@
 # Computer Organization Final Project
-NCU 2024 Spring CE3001 Computer Organization 
+NCU 2024 Spring CE3001 Computer Organization
+
+Final Project
 
 ### Finished
 
